@@ -1,0 +1,9 @@
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo\bin\Debug\AEG.Varejo.exe.config
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo\bin\Debug\AEG.Varejo.exe
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo\bin\Debug\AEG.Varejo.pdb
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo\obj\Debug\AEG.Varejo.csprojAssemblyReference.cache
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo\obj\Debug\AEG.Varejo.Properties.Resources.resources
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo\obj\Debug\AEG.Varejo.csproj.GenerateResource.cache
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo\obj\Debug\AEG.Varejo.csproj.CoreCompileInputs.cache
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo\obj\Debug\AEG.Varejo.exe
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo\obj\Debug\AEG.Varejo.pdb

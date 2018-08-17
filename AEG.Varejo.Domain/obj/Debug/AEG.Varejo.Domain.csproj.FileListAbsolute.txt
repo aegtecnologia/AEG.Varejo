@@ -1,0 +1,6 @@
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Domain\bin\Debug\AEG.Varejo.Domain.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Domain\bin\Debug\AEG.Varejo.Domain.pdb
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Domain\obj\Debug\AEG.Varejo.Domain.csprojAssemblyReference.cache
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Domain\obj\Debug\AEG.Varejo.Domain.csproj.CoreCompileInputs.cache
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Domain\obj\Debug\AEG.Varejo.Domain.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Domain\obj\Debug\AEG.Varejo.Domain.pdb
