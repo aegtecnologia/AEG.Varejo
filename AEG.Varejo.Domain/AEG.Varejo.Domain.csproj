@@ -40,14 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contratos\Repositorio\ICentroCustoRepository.cs" />
+    <Compile Include="Contratos\Repositorio\IDespesaRepository.cs" />
+    <Compile Include="Contratos\Repositorio\IUsuarioRepository.cs" />
+    <Compile Include="Entities\CentroCusto.cs" />
     <Compile Include="Entities\Cidade.cs" />
     <Compile Include="Entities\Cliente.cs" />
     <Compile Include="Entities\Contato.cs" />
+    <Compile Include="Entities\Despesa.cs" />
+    <Compile Include="Entities\DespesaCentroCusto.cs" />
     <Compile Include="Entities\Endereco.cs" />
     <Compile Include="Entities\Estado.cs" />
     <Compile Include="Entities\Produto.cs" />
     <Compile Include="Entities\Usuario.cs" />
+    <Compile Include="Enumeradores\Enumeradores.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,14 @@
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\bin\Debug\AEG.Varejo.Infra.dll.config
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\bin\Debug\AEG.Varejo.Infra.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\bin\Debug\AEG.Varejo.Infra.pdb
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\bin\Debug\EntityFramework.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\bin\Debug\EntityFramework.xml
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\obj\Debug\AEG.Varejo.Infra.csprojAssemblyReference.cache
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\obj\Debug\AEG.Varejo.Infra.csproj.CoreCompileInputs.cache
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\obj\Debug\AEG.Varejo.Infra.csproj.CopyComplete
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\obj\Debug\AEG.Varejo.Infra.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\obj\Debug\AEG.Varejo.Infra.pdb
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\bin\Debug\AEG.Varejo.Domain.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Infra\bin\Debug\AEG.Varejo.Domain.pdb
