@@ -1,0 +1,16 @@
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\bin\Debug\AEG.Varejo.Service.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\bin\Debug\AEG.Varejo.Service.pdb
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\bin\Debug\AEG.Varejo.Domain.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\bin\Debug\AEG.Varejo.Infra.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\bin\Debug\EntityFramework.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\bin\Debug\AEG.Varejo.Domain.pdb
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\bin\Debug\AEG.Varejo.Infra.pdb
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\bin\Debug\AEG.Varejo.Infra.dll.config
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\bin\Debug\EntityFramework.xml
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\obj\Debug\AEG.Varejo.Service.csprojAssemblyReference.cache
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\obj\Debug\AEG.Varejo.Service.csproj.CoreCompileInputs.cache
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\obj\Debug\AEG.Varejo.Service.csproj.CopyComplete
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\obj\Debug\AEG.Varejo.Service.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\obj\Debug\AEG.Varejo.Service.pdb
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\bin\Debug\FluentValidation.dll
+C:\Anderson\Projetos\0-estudos\AEG.Varejo\AEG.Varejo.Service\bin\Debug\FluentValidation.xml

@@ -11,6 +11,7 @@ namespace AEG.Varejo.Domain.Contratos.Repositorio
     {
         IEnumerable<Usuario> BuscarTodos();
         Usuario BuscarPorId(int id);
+        Usuario BuscarPorNome(string nome);
         void Salvar(Usuario usuario);
         void Deletar(Usuario usuario);
     }

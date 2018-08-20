@@ -1,9 +1,11 @@
 ﻿using AEG.Varejo.Domain.Enumeradores;
+using AEG.Varejo.Domain.Validations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using FluentValidation;
 
 namespace AEG.Varejo.Domain.Entities
 {
@@ -20,8 +22,15 @@ namespace AEG.Varejo.Domain.Entities
         public decimal ValorBruto { get; set; }
         public decimal ValorDesconto { get; set; }
         public decimal ValorAcrescimo { get; set; }
-        public decimal ValorLiquido { get; set; }
+        public decimal ValorLiquido { get { return ValorBruto + ValorAcrescimo - ValorDesconto; } }
         public virtual Usuario Usuario { get; set; }
         public virtual IEnumerable<DespesaCentroCusto> CentroCustoLista{get;set;}
+
+        public virtual void Validar()
+        {
+            DespesaValidator validador = new DespesaValidator();
+            validador.ValidateAndThrow(this);        
+        }
+       
     }
 }

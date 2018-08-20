@@ -8,6 +8,7 @@ namespace AEG.Varejo.Domain.Enumeradores
 {
     public enum eSituacaoDespesa
     {
+        TODOS=-1,
         CANCELADA = 0,
         PAGO= 1,
         NAOPAGO=2,

@@ -54,6 +54,9 @@
     <Compile Include="EF\Mapeamentos\DespesaCCustoMap.cs" />
     <Compile Include="EF\Mapeamentos\DespesaMap.cs" />
     <Compile Include="EF\Mapeamentos\UsuarioMap.cs" />
+    <Compile Include="EF\Repositories\CentroCustoRepository.cs" />
+    <Compile Include="EF\Repositories\DespesaRepository.cs" />
+    <Compile Include="EF\Repositories\UsuarioRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -66,5 +69,6 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
