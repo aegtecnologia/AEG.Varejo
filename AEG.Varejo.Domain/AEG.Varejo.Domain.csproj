@@ -67,7 +67,12 @@
     <Compile Include="Entities\DespesaCentroCusto.cs" />
     <Compile Include="Entities\Endereco.cs" />
     <Compile Include="Entities\Estado.cs" />
+    <Compile Include="Entities\Pedido.cs" />
+    <Compile Include="Entities\PedidoItem.cs" />
+    <Compile Include="Entities\PedidoPagto.cs" />
     <Compile Include="Entities\Produto.cs" />
+    <Compile Include="Entities\Promocao.cs" />
+    <Compile Include="Entities\PromocaoItem.cs" />
     <Compile Include="Entities\Usuario.cs" />
     <Compile Include="Enumeradores\Enumeradores.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
