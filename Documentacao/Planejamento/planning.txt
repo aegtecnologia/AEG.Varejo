@@ -1,0 +1,9 @@
+################# formulas para prazo ####################
+
+[estimativa de 3 pontos]
+PERT = (O + 4 x MP + P) / 6
+[desvio padrao]
+(DV = (P-O)/6)
+
+
+#############################
